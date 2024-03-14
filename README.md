@@ -1,4 +1,7 @@
-# magic api
+# magic api  
+
+[english](https://github.com/magic999999/magicapi/blob/main/en_readme.md)
+
 
 我们是专业的采集团队，定制国内外各种数据采集。提供优质技术服务。
 
