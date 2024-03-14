@@ -15,34 +15,34 @@
 
 
 ###  抖音
-** 抖音视频爬虫 api
-** 抖音商品详情 爬虫 api
-** 抖音商品评论 爬虫 api
-** 抖音搜索视频采集 api
+* 抖音视频爬虫 api
+* 抖音商品详情 爬虫 api
+* 抖音商品评论 爬虫 api
+* 抖音搜索视频采集 api
 
 ### xiaohongshu
-** 小红书 批量获取笔记详情
-** 小红书 搜索笔记信息
-** 小红书 获取笔记评论
+* 小红书 批量获取笔记详情
+* 小红书 搜索笔记信息
+* 小红书 获取笔记评论
 
 ## lazada 
-** lazada 电商获取商品详情
-** lazada 电商获取商品评论
+* lazada 电商获取商品详情
+* lazada 电商获取商品评论
 
 ## shopee 虾皮
-** shopee 电商获取商品详情
-** shopee 电商获取商品评论
+* shopee 电商获取商品详情
+* shopee 电商获取商品评论
 
 ## tiktok
-** tiktok 获取视频播放量
-** tiktok 搜索视频api
-** tiktok 监控博主粉丝情况
+* tiktok 获取视频播放量
+* tiktok 搜索视频api
+* tiktok 监控博主粉丝情况
 
 # youtube api
-** youtube 博主监控
-** YouTube 视频评论获取
-** YouTube 热门视频 监控
-** youtube 视频信息获取
+* youtube 博主监控
+* YouTube 视频评论获取
+* YouTube 热门视频 监控
+* youtube 视频信息获取
 
 
 不交流破解方案，且数据仅供学习用途。如果侵犯了您的权益请联系删除
